@@ -1,0 +1,48 @@
+SRR203502_1.fastq before quality filter: Total Reads: 5000
+Position	Score
+146	14.06
+145	14.18
+144	14.44
+143	14.66
+142	14.88
+13	37.81
+17	37.81
+18	37.81
+6	37.81
+11	37.90
+SRR203502_1.fastq after quality filter: Total Reads: 4057
+Position	Score
+146	16.86
+145	17.01
+144	17.33
+143	17.60
+142	17.87
+7	38.39
+16	38.40
+6	38.40
+18	38.42
+11	38.44
+SRR203502_2.fastq before quality filter: Total Reads: 5000
+Position	Score
+146	9.69
+145	9.92
+144	10.10
+143	10.30
+142	10.62
+7	35.98
+16	36.01
+12	36.02
+11	36.16
+1	36.42
+SRR203502_2.fastq after quality filter: Total Reads: 3478
+Position	Score
+146	13.06
+145	13.39
+144	13.65
+143	13.94
+142	14.38
+14	38.24
+15	38.24
+9	38.25
+11	38.27
+1	38.37
